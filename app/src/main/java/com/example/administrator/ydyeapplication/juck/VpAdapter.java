@@ -1,4 +1,4 @@
-package com.example.administrator.ydyeapplication;
+package com.example.administrator.ydyeapplication.juck;
 
 import android.support.v4.view.PagerAdapter;
 import android.view.View;

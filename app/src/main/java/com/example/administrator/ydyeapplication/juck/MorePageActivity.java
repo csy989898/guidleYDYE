@@ -1,4 +1,4 @@
-package com.example.administrator.ydyeapplication;
+package com.example.administrator.ydyeapplication.juck;
 
 import android.content.Intent;
 import android.support.v4.view.ViewPager;
@@ -8,6 +8,9 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
+
+import com.example.administrator.ydyeapplication.MainActivity;
+import com.example.administrator.ydyeapplication.R;
 
 import java.util.ArrayList;
 

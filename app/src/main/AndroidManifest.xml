@@ -17,9 +17,14 @@
             </intent-filter>
         </activity>
         <activity android:name=".guideVideo.GuidePagerActivity" />
-        <activity android:name=".MorePageActivity" />
+        <activity android:name=".juck.MorePageActivity" />
         <activity android:name=".guidePage.GuideMoreActivity" />
-        <activity android:name=".Door.GuideDoorActivity"></activity>
+        <activity android:name=".Door.GuideDoorActivity" />
+        <activity android:name=".Door.DoorActivity1" />
+        <activity android:name=".Door.DoorActivityB" />
+        <activity android:name=".Door.WhatsDoorActivity" />
+        <activity android:name=".OnePageActivity" />
+        <activity android:name=".AnimtionActivity"></activity>
     </application>
 
 </manifest>

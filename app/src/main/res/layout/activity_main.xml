@@ -51,4 +51,28 @@
         android:gravity="center"
         android:text="引导页"
         />
+    <Button
+        android:id="@+id/DoorPage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:padding="5dp"
+        android:gravity="center"
+        android:text="开门动画"
+        />
+    <Button
+        android:id="@+id/animtions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:padding="5dp"
+        android:gravity="center"
+        android:text="动画"
+        />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
 </LinearLayout>
